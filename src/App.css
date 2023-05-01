@@ -51,7 +51,7 @@ button {
   grid-area: modif;
 }
 .operations {
-  grid-area: oper;
+  grid-area: oper; 
 }
 .digits {
   grid-area: digit;
